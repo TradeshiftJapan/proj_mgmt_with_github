@@ -81,9 +81,12 @@ Surrounded by ~~Double tilda~~ is strikethrough.
 ## Details - Folding
 
 ```
-<details><summary>Details summary</summary>Details is descibed in details tag.</details>```
+<details><summary>Details summary</summary>
+Details is descibed in details tag.</details>
+```
 
-<details><summary>Details summary</summary>Details is descibed in details tag.</details>
+<details><summary>Details summary</summary>
+Details is descibed in details tag.</details>
 
 
 
