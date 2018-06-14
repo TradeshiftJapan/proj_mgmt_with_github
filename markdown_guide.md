@@ -18,7 +18,7 @@ line2
 <br>
 line3
 
-***
+
 
 ## Code
 
@@ -44,7 +44,7 @@ block
 
 your `code` block
 
-***
+
 
 ## Headers
 
@@ -62,7 +62,7 @@ your `code` block
 ...
 ###### Header 6
 
-***
+
 
 ## Emphasis
 
@@ -70,13 +70,13 @@ Surrounded by _Single underscore_ or *Single asterisk* is Italic.
 
 Surrounded by __Double Underscores__ or **Double asterisks** is Bold.
 
-***
+
 
 ## Strikethrough
 
 Surrounded by ~~Double tilda~~ is strikethrough.
 
-***
+
 
 ## Details - Folding
 
@@ -85,7 +85,7 @@ Surrounded by ~~Double tilda~~ is strikethrough.
 
 <details><summary>Details summary</summary>Details is descibed in details tag.</details>
 
-***
+
 
 ## List
 
@@ -186,7 +186,7 @@ Surrounded by ~~Double tilda~~ is strikethrough.
   <dd>Yellow fruit</dd>
 </dl>
 
-***
+
 
 ## Checkbox
 
@@ -199,7 +199,7 @@ Surrounded by ~~Double tilda~~ is strikethrough.
 - [x] Task 2
 
 
-***
+
 
 ## Blockquotes
 
@@ -222,7 +222,7 @@ blockquotes
 >> is
 >>> blockquotes
 
-***
+
 
 ## Horizontal ruler
 
@@ -239,7 +239,7 @@ blockquotes
 - - -
 
 
-***
+
 
 ## Links
 
@@ -258,7 +258,7 @@ blockquotes
 [link-1][] is same.
 [link-1]:http://github.com
 
-***
+
 
 ## Images
 
@@ -267,7 +267,7 @@ blockquotes
 ```
 ![Alternate text](http://tsubakicraft.jp/images/hibiki_std.png)
 
-***
+
 
 ## Table
 
@@ -283,7 +283,7 @@ blockquotes
 |1|2|3|
 |4|5|6|
 
-***
+
 
 ## Text color
 
@@ -295,7 +295,7 @@ blockquotes
 <font color="Red">Red</font><br>
 <font color="#3e3e3e">#3e3e3e</font>
 
-***
+
 
 ## Foot Note
 
@@ -303,7 +303,7 @@ Text[1]
 
 [1]: Note
 
-***
+
 
 ## Escape Markdown
 

@@ -8,7 +8,7 @@ For our project, the specifications of application, tesiting, deployment and ope
 
 Individual technical issues will be processed in GitHub Issues.
 
-All documents shall be described by Markdown notation.
+All documents shall be described by [Markdown](https://guides.github.com/features/mastering-markdown/) notation.
 
 ## Project members
 
