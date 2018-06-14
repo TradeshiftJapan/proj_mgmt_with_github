@@ -60,8 +60,8 @@ Creating project is the job of the project manager.
 #### At any time
 
 1. If you have something or something happens, add a card to the "Conversation".
-2. Select the card to be converted to task on the "Conversation" board and move to the card the "To Do" board. At this time, it is advisable to set the granularity to such an extent that it can be completed by the progress confirmation date. If it is bigger than that, divide it to several cards.
-3. The note of the card is corrected for the programmer to understand easily.
+2. Select the card to be converted to task on the "Conversation" board and move the card to the "To Do" board. At this time, it is advisable to set the granularity to such an extent that it can be completed by the progress confirmation date. If it is bigger than that, divide it to several cards.
+3. The note of the card is corrected for programmers to understand easily.
 4. Issue the corresponding card from the card in "To Do" board which should be handled by the next progress confirmation date. (Open the menu from "..." at the top right of the card, choose "Convert to issue" and register as Issue)
 
   ![](screenshot/convert_to_issue.png)
@@ -76,7 +76,7 @@ Creating project is the job of the project manager.
 
 #### After Progress Confirmation Date
 
-1. The person in charge moves the card of the "To Do" board to the In Progress board.
+1. The person in charge moves the card of the "To Do" board to the "In Progress" board.
 2. Move the handled card of "In Progress" board to "Review" board.
 3. Ask the reviewer to review the task.
 
@@ -99,6 +99,6 @@ Creating project is the job of the project manager.
 #### At any time
 
 1. Delete cards which you think you do not mind deleting from "Done" board.
-２. Confirm with the person in charge if there is a problem with the card of "In Progress" board.
+2. Confirm with the person in charge if there is a problem with the card of "In Progress" board.
 3. If there is anything you want to process in a hurry in the card of the "To Do" board, ask the person in charge to process in a hurry.
 4. If you have any idea, add cards to the "Conversation" board from time to time.
