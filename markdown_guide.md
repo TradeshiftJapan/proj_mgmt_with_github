@@ -300,13 +300,16 @@ blockquotes
 
 
 
+*Does not work with GitHub*
+
+
 ## Foot Note
 
 Text[1]
 
 [1]: Note
 
-
+*Does not work with GitHub*
 
 ## Escape Markdown
 
