@@ -9,7 +9,7 @@
 
 個別の技術的課題（Issue）はIssuesの中で対応することとします。
 
-文書はすべて[Markdown記法](https://guides.github.com/features/mastering-markdown/)により記述ものとします。
+文書はすべて[Markdown記法](https://guides.github.com/features/mastering-markdown/)により記述するものとします。
 
 ## プロジェクトのメンバー構成
 
